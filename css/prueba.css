@@ -1,0 +1,32 @@
+body{
+background-color: lightgoldenrodyellow;
+}
+
+h1{
+color: turquoise;
+font-family: unset;
+font-size: 40px;
+}
+
+h2{
+color: darkred;
+font-size: 25px;
+font-family: monospace;
+}
+
+.big{
+
+font-size: 60px;
+}
+
+.unu{
+text-transform: uppercase;
+}
+
+.big.unu{
+color: salmon;
+}
+
+h1 span{
+color: olive;
+}
